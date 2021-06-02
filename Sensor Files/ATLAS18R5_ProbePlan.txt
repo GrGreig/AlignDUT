@@ -1,4 +1,4 @@
-Region=Segment	1
+Region=Segment_1
 Label=Strip	0	X=-51253.525	Y=41941.348
 Label=Strip	1	X=-51601.08	Y=41842.483
 Label=Strip	2	X=-51246.336	Y=41792.398
@@ -1153,7 +1153,7 @@ Label=Strip	1150	X=-51339.383	Y=-43681.016
 Label=Strip	1151	X=-51694.977	Y=-43745.03
 Label=Strip	1152	X=-51346.88	Y=-43829.641
 Label=Strip	1153	X=-51702.485	Y=-43893.593
-Region=Segment	2
+Region=Segment_2
 Label=Strip	0	X=47109.004	Y=48781.733
 Label=Strip	1	X=46764.029	Y=48674.573
 Label=Strip	2	X=47117.365	Y=48615.915

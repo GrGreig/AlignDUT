@@ -1,4 +1,4 @@
-Region=Segment	1
+Region=Segment_1
 Label=Strip	0	X=-54854.99	Y=37085.098
 Label=Strip	1	X=-55197.34	Y=36969.109
 Label=Strip	2	X=-54840.662	Y=36936.532
@@ -1025,7 +1025,7 @@ Label=Strip	1022	X=-55033.754	Y=-38890.573
 Label=Strip	1023	X=-55392.17	Y=-38936.859
 Label=Strip	1024	X=-55048.771	Y=-39038.4
 Label=Strip	1025	X=-55407.204	Y=-39084.547
-Region=Segment	2
+Region=Segment_2
 Label=Strip	0	X=-13926.132	Y=41976.958
 Label=Strip	1	X=-14265.552	Y=41853.303
 Label=Strip	2	X=-13909.918	Y=41812.586
@@ -2052,7 +2052,7 @@ Label=Strip	1022	X=-13940.117	Y=-42118
 Label=Strip	1023	X=-14297.164	Y=-42172.379
 Label=Strip	1024	X=-13956.384	Y=-42281.697
 Label=Strip	1025	X=-14313.45	Y=-42335.935
-Region=Segment	3
+Region=Segment_3
 Label=Strip	0	X=-12174.723	Y=42195.542
 Label=Strip	1	X=-12519.966	Y=42080.087
 Label=Strip	2	X=-12160.227	Y=42048.784
@@ -3207,7 +3207,7 @@ Label=Strip	1150	X=-12184.34	Y=-42292.614
 Label=Strip	1151	X=-12545.497	Y=-42337.807
 Label=Strip	1152	X=-12198.861	Y=-42438.772
 Label=Strip	1153	X=-12560.033	Y=-42483.841
-Region=Segment	4
+Region=Segment_4
 Label=Strip	0	X=46621.802	Y=49224.24
 Label=Strip	1	X=46282.729	Y=49099.283
 Label=Strip	2	X=46638.709	Y=49057.293
